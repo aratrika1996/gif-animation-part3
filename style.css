@@ -1,0 +1,9 @@
+.cn {
+    width: 750px;
+    height: 450px;
+    margin: 10px 0 0 10px;
+}
+
+.carousel-fade .carousel-item {
+    transition-duration: .6s;
+}
