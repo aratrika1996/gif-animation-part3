@@ -6,6 +6,6 @@
 
 .carousel-fade .carousel-item {
     -webkit-transition: -webkit-transform .5s ease-in-out;
-   transition: transform .5s ease-in-out;
-/*     transition-duration: 1s; */
+/*    transition: transform .5s ease-in-out; */
+    transition-duration: .5s;
 }
