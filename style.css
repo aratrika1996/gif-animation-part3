@@ -4,6 +4,8 @@
     margin: 10px 0 0 10px;
 }
 
-/* .carousel-fade .carousel-item {
-    transition-duration: 1s;
-} */
+.carousel-fade .carousel-item {
+    -webkit-transition: -webkit-transform .5s ease-in-out;
+   transition: transform .5s ease-in-out;
+/*     transition-duration: 1s; */
+}
