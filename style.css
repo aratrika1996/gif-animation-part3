@@ -6,8 +6,8 @@
 
 .carousel-fade .carousel-item {
     opacity: 0;
-    -webkit-transition: -webkit-transform .8s;
-    transition-duration: .8s;
+    -webkit-transition: -webkit-transform .7s;
+    transition-duration: .7s;
     transition-property: opacity;
 }
 .carousel-fade .carousel-item.active {
