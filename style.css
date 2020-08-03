@@ -19,10 +19,10 @@
 .carousel-fade .active.carousel-item-right{
     opacity: 0;
 }
-.carousel-fade .carousel-item.active,
+/* .carousel-fade .carousel-item.active,
 .carousel-fade .active.carousel-item-left,
 .carousel-fade .active.carousel-item-right{
     transform: translateX(0);
     transform: translate3d(0,0,0);
-}
+} */
 
